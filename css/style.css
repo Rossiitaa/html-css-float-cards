@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Koulen, Arial, Helvetica, sans-serif;
+}
+section {
+    margin: 30px;
+}
+
+/* header */
+.title {
+    text-align: center;
+    margin-top: 20px;
+    color: #e3117a;
+}
+
+.description {
+    text-align: center;
+    margin: 60px 100px;
+}
+
+/* main */
+.margin-all {
+    margin: 0px 200px;
+}
+
+
+.first-section img{
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+}
+
+span {
+    display: block;
+    color: white;
+}
+.background-1 {
+    background-color: black;
+    width: 280px;
+}
+
+.name-bold {
+    font-weight: bold;
+}
+
+.description-person {
+    font-size: small;
+}
+
+.second-section img {
+    height: 80px;
+    float: left;
+    margin-right: 10px;
+}
