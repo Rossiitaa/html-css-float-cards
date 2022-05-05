@@ -6,10 +6,18 @@
     box-sizing: border-box;
     font-family: Koulen, Arial, Helvetica, sans-serif;
 }
-section {
+
+div {
     margin: 30px;
 }
 
+.lfloat img{
+    float: left;
+}
+
+.rfloat {
+    float: right;
+}
 /* header */
 .title {
     text-align: center;
@@ -27,10 +35,8 @@ section {
     margin: 0px 200px;
 }
 
-
-.first-section img{
-    height: 80px;
-    float: left;
+img {
+    height: 87px;
     margin-right: 10px;
 }
 
@@ -51,8 +57,3 @@ span {
     font-size: small;
 }
 
-.second-section img {
-    height: 80px;
-    float: left;
-    margin-right: 10px;
-}
