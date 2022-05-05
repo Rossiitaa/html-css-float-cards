@@ -11,28 +11,29 @@ div {
     margin: 30px;
 }
 
+.lfloat {
+    float: left;
+}
+
 .lfloat img{
     float: left;
 }
 
-.rfloat {
-    float: right;
-}
 /* header */
 .title {
     text-align: center;
-    margin-top: 20px;
     color: #e3117a;
+    margin-bottom: 60px;
 }
 
 .description {
     text-align: center;
-    margin: 60px 100px;
+    margin: 0px 100px;
 }
 
 /* main */
 .margin-all {
-    margin: 0px 200px;
+    margin: 0 420px;
 }
 
 img {
